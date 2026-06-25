@@ -1,2 +1,2 @@
-# Icecream-Linux-gpg-key-
+# Icecream-Linux-gpg-key
 A Icecream-Linux Offical gpg key 
